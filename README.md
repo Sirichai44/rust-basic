@@ -1,1 +1,2 @@
 # rust-basic
+cargo run
